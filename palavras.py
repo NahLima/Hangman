@@ -1,0 +1,1 @@
+words = 'anta balao urso cavalo camelo gato cobra coiote lobo cahorro'.split()
